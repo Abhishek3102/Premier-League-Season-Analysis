@@ -30,6 +30,26 @@ Users can input a specific season and team to generate detailed results and visu
 
 The repository includes various plots to display the data, making it easier to interpret the performance trends and insights.
 
+# Some plots:
+![image](https://github.com/user-attachments/assets/7b15e0a3-36aa-4ee9-924b-01e97bf1a6be)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/e2061ae3-bb58-4ca7-9785-62101e3342d0)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/ce97136a-0af1-4027-97fb-5c56242111a2)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/fca6926e-e0c1-4b04-b08e-be6aef83b615)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/45914906-e8d8-4c62-bf09-dfaa15e8fd0c)
+---------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/08dd66ff-b42e-4b2a-bb91-3d1b17598924)
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Getting Started
 
 1. Clone the repository:
