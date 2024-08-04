@@ -54,7 +54,7 @@ The repository includes various plots to display the data, making it easier to i
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/premier-league-analysis.git
+   git clone https://github.com/Abhishek3102/Premier-League-Season-Analysis.git
 
 2. Navigate to the project directory.
 
