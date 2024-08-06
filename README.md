@@ -49,6 +49,9 @@ The repository includes various plots to display the data, making it easier to i
 ![image](https://github.com/user-attachments/assets/08dd66ff-b42e-4b2a-bb91-3d1b17598924)
 ---------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/7f0ce430-fb40-49fc-8064-25edaf723a8f)
+---------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Getting Started
 
